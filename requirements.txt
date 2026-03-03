@@ -1,0 +1,25 @@
+# requirements.txt
+# Project: CN Lab Project 
+# Description: Dependencies for computer networking and multimedia processing
+# Install: pip install -r requirements.txt
+
+# Core utilities
+numpy==2.1.1
+requests==2.32.3
+typeguard==4.3.0
+
+# Serialization / Config
+pickle-mixin==1.0.2
+pyyaml==6.0.2
+
+# Audio / Video / Image processing
+opencv-python==4.10.0.84
+Pillow==10.4.0
+pyaudio==0.2.14
+mss==9.0.1
+
+# Communication / Hardware
+pyserial==3.5
+
+# Templates
+jinja2==3.1.4
